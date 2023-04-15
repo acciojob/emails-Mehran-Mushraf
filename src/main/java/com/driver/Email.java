@@ -110,6 +110,5 @@ public class Email {
         }
 
         this.setPassword(newPassword);
-        return;
     }
 }
